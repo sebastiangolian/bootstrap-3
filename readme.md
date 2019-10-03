@@ -3,7 +3,7 @@ App to testing bootstrap package.
 With webpack, scss, and loaders.
 
 ## Test app
-[bootstrap-3](https://github.com/sebastiangolian/bootstrap-3)
+[bootstrap-3](https://sebastiangolian.github.io/bootstrap-3/)
 
 ## Getting started
 ```bash
