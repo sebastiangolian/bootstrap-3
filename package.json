@@ -14,7 +14,14 @@
     "type": "git",
     "url": "git+https://github.com/sebastiangolian/bootstrap-3.git"
   },
-  "keywords": ["bootstrap","npm","responsive","rwd","webpack","scss"],
+  "keywords": [
+    "bootstrap",
+    "npm",
+    "responsive",
+    "rwd",
+    "webpack",
+    "scss"
+  ],
   "author": "sebastiangolian@gmail.com",
   "license": "MIT",
   "bugs": {
@@ -32,7 +39,7 @@
     "sass-loader": "^7.1.0",
     "style-loader": "^0.23.1",
     "webpack": "^4.29.0",
-    "webpack-cli": "^3.2.1",
+    "webpack-cli": "^3.3.9",
     "webpack-dev-server": "^3.1.14"
   }
 }
